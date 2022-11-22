@@ -8,9 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*
-Beginning of header. It ends with 'a'.  
-*/
+/*Header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -48,11 +46,8 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
-/*
-'.hero' is the big large image underneath the navigation bar
-*/
-.hero {
+/* Image */
+.image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -61,9 +56,7 @@ a {
     background-position: center;
 }
 
-/*
-Beginning of the <main> element. It ends with '.float-right'.
-*/
+/* <main> Product */
 .product {
     width: 75%;
     display: inline-block;
@@ -102,9 +95,7 @@ p {
     margin-left: 25px;
 }
 
-/*
-Beginning of <aside>. It ends with '.benefit img'.
-*/
+/* <aside> Benifits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -131,9 +122,7 @@ Beginning of <aside>. It ends with '.benefit img'.
     margin: 10px auto;
     max-width: 150px;
 }
-/*
-Beginning of <footer>. It ends with '#footer h4'.
-*/
+/* <footer> Footer */
 #footer {
     padding: 30px;
     clear: both;
@@ -145,9 +134,3 @@ Beginning of <footer>. It ends with '#footer h4'.
     font-size: 20px;
 }
 
-/*
-Changes added to CSS
-1. merged usless classes
-2. pushed down css code for <main class="benefits"></main> and the enclosed sections below
-the <main class="content"></main> maintaining the top to bottom html stucture
-*/
