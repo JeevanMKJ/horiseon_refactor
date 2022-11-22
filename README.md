@@ -7,8 +7,7 @@ Horiseon refactor focused on adding semantic strucure to the css and html as wel
 ## Visual
 The web page reatains its origional look and full functionality. 
 
-![screen-recording](./assets/images/horisen-screen-recording.mp4)
-
+![screen-recording](./assets/images/horiseon-screen-recording-2.mp4)
 
 ## Support
 
